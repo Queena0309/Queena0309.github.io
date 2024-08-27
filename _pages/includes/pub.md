@@ -46,4 +46,3 @@ Hao Wang, Bin Guo, **Mengqi Chen**, Yasan Ding, Qiuyun Zhang, Ying Zhang, Zhiwen
 </div>
 </div>
 
-% - `ECAI 2023` [PiercingEye: Identifying Both Faint and Distinct Clues for Explainable Fake News Detection with Progressive Dynamic Graph Mining](https://ebooks.iospress.nl/doi/10.3233/FAIA230315), Yasan Ding, Bin Guo, Yan Liu, **Hao Wang**, et al.
