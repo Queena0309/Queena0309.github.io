@@ -1,8 +1,9 @@
 I am currently a Ph.D. candidate in Computer Science and Technology, supervised by Prof. [Bin Guo (郭斌)](www.guob.org) at Northwestern Polytechnical University (NWPU), Xi’an, China. 
 
-Before that, I received B.E. degree in Computer Science and Technology at NWPU in 2019, during which I participated in several student competitions and received the Outstanding Undergraduate Student and Outstanding Undergraduate Thesis awards.
+Before that, I received B.E. and M.A. degree from Xi'an Engineering University in 2019 and 2022, respectively, during which I participated in several student competitions and received the Outstanding Undergraduate Student and Outstanding Undergraduate Thesis awards.
 
-My research interests include **Dialogue Systems**, **Large Language Models (LLMs)**, **Generative Artificial Intelligence (AI)**, **Social Media Mining**.
+
+My research interests include **Persuasive Dialogue Systems**, **Large Language Models (LLMs)**.
 
 I have published 10+ papers.
 
