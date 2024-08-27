@@ -36,7 +36,7 @@ Hao Wang, Bin Guo, **Mengqi Chen**, Yasan Ding, Qiuyun Zhang, Ying Zhang, Zhiwen
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers in Industry 2022</div><img src='images/Architecture-TKDD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers in Industry 2022</div><img src='images/Arhiteture-Indus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improved faster R-CNN for fabric defect detection based on Gabor filter with Genetic Algorithm optimization]([https://dl.acm.org/doi/10.1145/3583758](https://www.sciencedirect.com/science/article/pii/S0166361521001585)) \\
