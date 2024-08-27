@@ -40,13 +40,10 @@ Hao Wang, Bin Guo, **Mengqi Chen**, Yasan Ding, Qiuyun Zhang, Ying Zhang, Zhiwen
 <div class='paper-box-text' markdown="1">
 
 [Improved faster R-CNN for fabric defect detection based on Gabor filter with Genetic Algorithm optimization]([https://dl.acm.org/doi/10.1145/3583758](https://www.sciencedirect.com/science/article/pii/S0166361521001585)) \\
-**Hao Wang**, Bin Guo, Jiaqi Liu, Yasan Ding, Zhiwen Yu
+**Mengqi Chen**, Lingjie Yu, Chao Zhi, Runjun Sun, Shuangwu Zhu, Zhongyuan Gao, Zhenxia Ke, Mengqiu Zhu, Yuming Zhang
 
-- Knowledge-enhanced dialogue systems aim to generate factually correct and coherent responses by reasoning over knowledge sources, which is a promising research trend. we present CrowdDialog, a crowd intelligence knowledge-enhanced dialogue system, which takes advantage of “crowd intelligence knowledge” extracted from social media (with rich subjective descriptions and diversified expression styles) to promote the performance of dialogue systems.
+- Fabric defect detection plays a crucial role in fabric inspection and quality control. We improved the Faster Region-based Convolutional Neural Network (Faster R-CNN) model by embedding Gabor kernels into Faster R-CNN, termed the Genetic Algorithm Gabor Faster R-CNN (Faster GG R-CNN).
 </div>
 </div>
 
-- `ECAI 2023` [PiercingEye: Identifying Both Faint and Distinct Clues for Explainable Fake News Detection with Progressive Dynamic Graph Mining](https://ebooks.iospress.nl/doi/10.3233/FAIA230315), Yasan Ding, Bin Guo, Yan Liu, **Hao Wang**, et al.
-- `Neurocomputing 2021` [Towards information-rich, logical dialogue systems with knowledge-enhanced neural models](https://www.sciencedirect.com/science/article/pii/S0925231221013424), **Hao Wang**, Bin Guo, et al.
-- ``TKDD 2021`` [DeepDepict: enabling information-rich, personalized product description generation with the deep multiple pointer generator network](https://dl.acm.org/doi/10.1145/3446982), Shaoyang Hao, Bin Guo, **Hao Wang**, et al.
-- ``TIST 2021`` [Conditional text generation for harmonious human-machine interaction](https://dl.acm.org/doi/abs/10.1145/3439816), Bin Guo, **Hao Wang**, Yasan Ding, et al.
+% - `ECAI 2023` [PiercingEye: Identifying Both Faint and Distinct Clues for Explainable Fake News Detection with Progressive Dynamic Graph Mining](https://ebooks.iospress.nl/doi/10.3233/FAIA230315), Yasan Ding, Bin Guo, Yan Liu, **Hao Wang**, et al.
