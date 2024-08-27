@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hao Wang (王豪)"
-description              : "Phd Candidate in Northwestern Polytechnical University wanghao456@mail.nwpu.edu.cn"
-repository               : "Wh2018/Wh2018.github.io"
+title                    : "Mengqi Chen (陈梦琦)"
+description              : "Phd Candidate in Northwestern Polytechnical University cmq_work@163.com"
+repository               : "Queena0309/Queena0309.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Hao Wang (王豪)"
-  avatar           : "images/HaoWang.jpg"
+  name             : "Mengqi Chen (陈梦琦)"
+  avatar           : "images/MengqiChen.jpg"
   bio              : # "TikTok"
   location         : "Xi'an"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=PeY6HBkAAAAJ&hl=zh-CN"
-  email            : "wanghao456@mail.nwpu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=pwJRxzkAAAAJ"
+  email            : cmq_work@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Wh2018"
+  github           : "Queena0309"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : 
   dblp             : # "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0001-6959-7237"
+  orcid            : #"https://orcid.org/0000-0001-6959-7237"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
