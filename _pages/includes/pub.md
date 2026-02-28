@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">THE ACM WEB CONFERENCE 2025</div><img src='images/Archicture-TOIS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">THE ACM WEB CONFERENCE 2025</div><img src='images/Archicture-TOIS.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Neuro-Sym Supporter: A Thoughtful Emotion Support Agent Integrating Neural and Symbolic Policy Learning](http://scis.scichina.com/cn/2025/SSI-2024-0204.pdf) \\ 
