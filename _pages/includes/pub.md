@@ -3,23 +3,23 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transactions on Information Systems 2026</div><img src='images/Architecture-TOIS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-  [PersuHSG: Adaptive Persuasion Strategy Planning for Dialogue Agents Based on Hierarchical Strategy Graph]
+PersuHSG: Adaptive Persuasion Strategy Planning for Dialogue Agents Based on Hierarchical Strategy Graph //
 
 **Mengqi Chen**, Bin Guo, Hao Wang, Jingqi Liu, Yan Liu, Yunji Liang, Peilin Li, Yan Pan, Zhiwen Yu
 
-- We present PersuHSG, an adaptive persuasion strategy planning framework. The core idea is to conceptualize persuasion as a tripartite framework comprising cognition, affection, and volition, with each stage represented as a graph layer and principle-based strategies for efficient multi-stage persuasion. 
+- We present PersuHSG, which conceptualizes persuasion as a tripartite framework comprising cognition, affection, and volition, with each stage represented as a graph layer and principle-based strategies for efficient multi-stage persuasion. 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">THE ACM WEB CONFERENCE 2025</div><img src='images/Architecture-WWW.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">THE ACM WEB CONFERENCE 2025</div><img src='images/Architecture-WWW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Neuro-Sym Supporter: A Thoughtful Emotion Support Agent Integrating Neural and Symbolic Policy Learning](http://scis.scichina.com/cn/2025/SSI-2024-0204.pdf) \\ 
 
 Minghui Ma, Bin Guo, **Mengqi Chen**, Jingqi Liu, Yasan Ding, Yan Liu, Han Wang
 
-- To simultaneously improve an agent’s ability to proactively explore solutions through rational reasoning while attending to users’ sensitive emotions via empathetic understanding, we propose Sym-Mind, a differentiable logic-based reasoning framework for emotional support strategy selection, which unifies interpretability with stable performance.
+- We propose Sym-Mind, a differentiable logic-based reasoning framework for emotional support strategy selection, which unifies interpretability with stable performance to improve an agent’s ability to proactively explore solutions through rational reasoning.
 </div>
 </div>
 
@@ -31,7 +31,7 @@ cognitive psychology](http://scis.scichina.com/cn/2025/SSI-2024-0204.pdf) \\
 
 **Mengqi Chen**, Bin Guo, Hao Wang, Jingqi Liu, Kaixing Zhao, Yunji Liang, Yan Pan, Zhiwen Yu
 
-- Making AI dialogue systems more persuasive can improve topic control and logic in conversations, enhancing human-computer interaction. However, current research lacks deep modeling of persuasion mechanisms and mostly focuses on simple one-on-one scenarios, limiting its use in group settings. To solve this, we propose "Collective Intelligence Persuasion Dialogue," where multiple specialized AI agents work together.
+- Making AI dialogue systems more persuasive can improve topic control and logic in conversations, enhancing human-computer interaction. We propose "Collective Intelligence Persuasion Dialogue," in which multiple specialized AI agents collaborate.
 </div>
 </div>
 
@@ -39,11 +39,11 @@ cognitive psychology](http://scis.scichina.com/cn/2025/SSI-2024-0204.pdf) \\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FCS 2024</div><img src='images/Archicture-FCS-chen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The Future of Cognitive Strategy-enhanced Persuasive Dialogue Agents: New Perspectives and Trends](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40057-x) \\ 
+[The Future of Cognitive Strategy-enhanced Persuasive Dialogue Agents: New Perspectives and Trends](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40057-x) 
 
 **Mengqi Chen**, Bin Guo, Hao Wang, Haoyu Li, Qian Zhao, Jingqi Liu, Yasan Ding, Yan Pan, Zhiwen Yu
 
-- Persuasion, as one of the crucial abilities in human communication, has garnered extensive attention from researchers within the field of intelligent dialogue systems. The cognitive strategy-enhanced persuasive dialogue agent (defined as CogAgent), which incorporates cognitive strategies to achieve persuasive targets through conversation, has become a predominant research paradigm. We make a comprehensive survey of CogAgent.
+- Persuasion has garnered extensive attention from researchers within the field of intelligent dialogue systems. The cognitive strategy-enhanced persuasive dialogue agent (defined as CogAgent), which incorporates cognitive strategies to achieve persuasive targets through conversation, has become a predominant research paradigm. 
 </div>
 </div>
 
