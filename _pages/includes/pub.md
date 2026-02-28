@@ -2,8 +2,8 @@
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transactions on Information Systems 2026</div><img src='images/Archicture-TOIS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-[PersuHSG: Adaptive Persuasion Strategy Planning for Dialogue Agents Based on Hierarchical Strategy Graph]
+
+  [PersuHSG: Adaptive Persuasion Strategy Planning for Dialogue Agents Based on Hierarchical Strategy Graph]
 
 **Mengqi Chen**, Bin Guo, Hao Wang, Jingqi Liu, Yan Liu, Yunji Liang, Peilin Li, Yan Pan, Zhiwen Yu
 
@@ -12,7 +12,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">THE ACM WEB CONFERENCE 2025</div><img src='images/Archicture-WWW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">THE ACM WEB CONFERENCE 2025</div><img src='images/Archicture-WWW.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Neuro-Sym Supporter: A Thoughtful Emotion Support Agent Integrating Neural and Symbolic Policy Learning](http://scis.scichina.com/cn/2025/SSI-2024-0204.pdf) \\ 
