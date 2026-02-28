@@ -19,7 +19,7 @@ PersuHSG: Adaptive Persuasion Strategy Planning for Dialogue Agents Based on Hie
 
 Minghui Ma, Bin Guo, **Mengqi Chen**, Jingqi Liu, Yasan Ding, Yan Liu, Han Wang
 
-- We propose Sym-Mind, a differentiable logic-based reasoning framework for emotional support strategy selection, which unifies interpretability with stable performance to improve an agent’s ability to proactively explore solutions through rational reasoning.
+- We propose Sym-Mind, a differentiable logic-based reasoning framework for emotional support strategy selection, which unifies interpretability with stable performance to improve an agent’s ability to proactively explore solutions through reasoning.
 </div>
 </div>
 
