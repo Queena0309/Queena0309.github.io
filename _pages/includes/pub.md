@@ -74,7 +74,7 @@ Hao Wang, Bin Guo, **Mengqi Chen**, Yasan Ding, Qiuyun Zhang, Ying Zhang, Zhiwen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers in Industry 2022</div><img src='images/Arhiteture_Indus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Improved faster R-CNN for fabric defect detection based on Gabor filter with Genetic Algorithm optimization]([https://dl.acm.org/doi/10.1145/3583758](https://www.sciencedirect.com/science/article/pii/S0166361521001585)) \\
+[Improved faster R-CNN for fabric defect detection based on Gabor filter with Genetic Algorithm optimization] ESI Hot Paper([https://dl.acm.org/doi/10.1145/3583758](https://www.sciencedirect.com/science/article/pii/S0166361521001585)) \\
 **Mengqi Chen**, Lingjie Yu, Chao Zhi, Runjun Sun, Shuangwu Zhu, Zhongyuan Gao, Zhenxia Ke, Mengqiu Zhu, Yuming Zhang
 
 - Fabric defect detection plays a crucial role in fabric inspection and quality control. We improved the Faster Region-based Convolutional Neural Network (Faster R-CNN) model by embedding Gabor kernels into Faster R-CNN, termed the Genetic Algorithm Gabor Faster R-CNN (Faster GG R-CNN).
