@@ -29,7 +29,7 @@ Minghui Ma, Bin Guo, **Mengqi Chen**, Jingqi Liu, Yasan Ding, Yan Liu, Han Wang
 [Multi-agent collaborative crowd intelligence persuasive dialogue inspired by
 cognitive psychology](http://scis.scichina.com/cn/2025/SSI-2024-0204.pdf) \\ 
 
-**Mengqi Chen**, Bin Guo, Hao Wang, Jingqi Liu, Kaixing Zhao, Yunji Liang, Yan Pan, Zhiwen Yu
+**Mengqi Chen**, Bin Guo, Hao Wang, Jingqi Liu, Kaixing Zhao, Yunji Liang, Zhiwen Yu
 
 - Making AI dialogue systems more persuasive can improve topic control and logic in conversations, enhancing human-computer interaction. We propose "Collective Intelligence Persuasion Dialogue," in which multiple specialized AI agents collaborate.
 </div>
@@ -41,7 +41,7 @@ cognitive psychology](http://scis.scichina.com/cn/2025/SSI-2024-0204.pdf) \\
 
 [The Future of Cognitive Strategy-enhanced Persuasive Dialogue Agents: New Perspectives and Trends](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40057-x) 
 
-**Mengqi Chen**, Bin Guo, Hao Wang, Haoyu Li, Qian Zhao, Jingqi Liu, Yasan Ding, Yan Pan, Zhiwen Yu
+**Mengqi Chen**, Bin Guo, Hao Wang, Haoyu Li, Qian Zhao, Jingqi Liu, Zhiwen Yu
 
 - Persuasion has garnered extensive attention from researchers within the field of intelligent dialogue systems. The cognitive strategy-enhanced persuasive dialogue agent (defined as CogAgent), which incorporates cognitive strategies to achieve persuasive targets through conversation, has become a predominant research paradigm. 
 </div>
@@ -63,7 +63,7 @@ Hao Wang, Bin Guo, **Mengqi Chen**, Yasan Ding, Ying Zhang, Zhiwen Yu
 <div class='paper-box-text' markdown="1">
 
 [Memory-enhanced Emotional Support Conversations with Motivation-driven Strategy Inference](https://ecmlpkdd.org/2024/program-accepted-papers-research-track) \\
-Hao Wang, Bin Guo, **Mengqi Chen**, Yasan Ding, Qiuyun Zhang, Ying Zhang, Zhiwen Yu
+Hao Wang, Bin Guo, **Mengqi Chen**, Yasan Ding, Qiuyun Zhang, Zhiwen Yu
 
 - The prevalence of mental disorders is increasing globally, highlighting the need for effective emotional support systems. Emotional Support Conversation (ESC) systems have emerged as a promising solution, providing supportive responses to individuals experiencing emotional distress. we propose MAGIC, a Memory-enhanced emotional support conversation system with motivation-driven strAteGy InferenCe.
 </div>
